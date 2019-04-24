@@ -1,4 +1,5 @@
-With this code you can replicate the experiments I showed on the slides, on detecting depression/ psychological distress in an in the wild contex.
+With this code you can replicate the experiments I showed on the slides, on detecting depression/ 
+psychological distress in an in the wild contex.
 
 This code requires the following packages:
 
@@ -27,4 +28,5 @@ File_2    label_2
 5: Put Oliver ASR raw output on data/asr/
 6: Put Oliver Emotion descriptors raw output on dir data/emotion_frames/
 
-After performing theses changes, all you need to do is run the scripts one by one, letting the previous finish before executing the next one.
+After performing theses changes, all you need to do is run the scripts one by one, following their numbering order, 
+and letting the previous finish before executing the next one.
