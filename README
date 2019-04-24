@@ -1,7 +1,7 @@
 With this code you can replicate the experiments I showed on the slides, on detecting depression/ 
 psychological distress in an in the wild contex.
 
-This code requires the following packages:
+This code was writen on python 3.6 and requires the following packages:
 
 Glob
 Keras
