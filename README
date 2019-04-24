@@ -23,8 +23,8 @@ File_2    label_2
 
 (... etc.)
 
-3: Put your raw wav data on data/wavs/
-4: Put Oliver ASR raw output on data/asr/
-5: Put Oliver Emotion descriptors raw output on dir data/emotion_frames 
+4: Put your raw wav data on data/wavs/
+5: Put Oliver ASR raw output on data/asr/
+6: Put Oliver Emotion descriptors raw output on dir data/emotion_frames/
 
 After performing theses changes, all you need to do is run the scripts one by one, letting the previous finish before executing the next one.
